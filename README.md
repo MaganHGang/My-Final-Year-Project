@@ -27,9 +27,11 @@ Once you have MySQL running on the terminal window:
 
 use the Source command followed by the Sql file name I provided in the supporting material in order to run my 3 databases & they are: 
 
-DataWarehouse2.sql -> Operational DB 
-courseEnrollment.sql -> Data Mart for modules 
-ModuleEnrollment.sql -> Data Mart for courses
+1.DataWarehouse2.sql -> Operational DB 
+2.courseEnrollment.sql -> Data Mart for modules 
+3. ModuleEnrollment.sql -> Data Mart for courses
+
+
 Instructions for running the data warehouse queries:
 
 Open the 3 queries files I provided in the supporting material: Saved DataWarehouse queries.sql -> for operational DB ModuleEnrollment queries.sql -> for module data mart courseEnrollment queries.sql -> for course data mart
