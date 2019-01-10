@@ -16,6 +16,7 @@ The links for instructions for installing & setting up MySQL are here for Window
 1. https://dev.mysql.com/doc/refman/5.7/en/windows-installation.html 
 2. https://dev.mysql.com/doc/refman/5.7/en/osx-installation.html 
 3. https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html 
+
 click on the links & follow the instructions for installing MySQL on your own machine.
 
 if you're using an existing MySQL account provided by EECS or any other department of the university or you have successfully installed MySQL onto your own machine & created your own account:
