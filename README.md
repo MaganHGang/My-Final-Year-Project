@@ -31,7 +31,7 @@ use the Source command followed by the Sql file name I provided in the supportin
 
 2.courseEnrollment.sql -> Data Mart for modules 
 
-3. ModuleEnrollment.sql -> Data Mart for courses
+3.ModuleEnrollment.sql -> Data Mart for courses
 
 
 Instructions for running the data warehouse queries:
