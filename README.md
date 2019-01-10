@@ -1,4 +1,5 @@
 My-Final-Year-Project
+
 This project was designed to help 2nd year students in the EECS (Electronic Engneering & Computer Science) department in Queen Mary University of London understand how data warehouses work & also how an EECS manager uses one to make decisions for the department. In order to help students understand that in the lab session of the database systems module I created 2 different schemas where one is for the 2 data marts which focuses on how the EECS manager can use them to make decisions about the courses & modules in the EECS department & the other is for an operational database which is designed for students to look at how the EECS mansager can use an ordinary relational database (also called as an operational database) to make business decisions for the department.
 
 The SQL files contains my 2 data marts & operational database plus a list for sample data warehouse queries for you to run on MySQL installed either on Queen Mary's computers in any department like EECS or your own local computer at home, for example. The queries I created are designed fo you to understand how an EECS manager can use them to analyse data in the EECs department such as modules data to help make business decisions such as which module has the least students enrolled over the past 2 years so that he can remove it from the EECS courses or what changes needs to be done to improve it for students who wants to study it better.
@@ -13,7 +14,9 @@ Make you have MySQL installed & create a MySQL account in order to create your o
 
 The links for instructions for installing & setting up MySQL are here for Windows, macos & Linux: 
 1. https://dev.mysql.com/doc/refman/5.7/en/windows-installation.html 
-2. https://dev.mysql.com/doc/refman/5.7/en/osx-installation.html 3. https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html click on the links & follow the instructions for installing MySQL on your own machine.
+2. https://dev.mysql.com/doc/refman/5.7/en/osx-installation.html 
+3. https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html 
+click on the links & follow the instructions for installing MySQL on your own machine.
 
 if you're using an existing MySQL account provided by EECS or any other department of the university or you have successfully installed MySQL onto your own machine & created your own account:
 
