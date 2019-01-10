@@ -25,7 +25,10 @@ Simply login to it in the MySQL terminal window.
 Ask IT services if you do not know how to login to MySQL if you're using the university's MySQL server.
 Once you have MySQL running on the terminal window:
 
-use the Source command followed by the Sql file name I provided in the supporting material in order to run my 3 databases & they are: DataWarehouse2.sql -> Operational DB courseEnrollment.sql -> Data Mart for modules ModuleEnrollment.sql -> Data Mart for courses
+use the Source command followed by the Sql file name I provided in the supporting material in order to run my 3 databases & they are: 
+DataWarehouse2.sql -> Operational DB 
+courseEnrollment.sql -> Data Mart for modules 
+ModuleEnrollment.sql -> Data Mart for courses
 Instructions for running the data warehouse queries:
 
 Open the 3 queries files I provided in the supporting material: Saved DataWarehouse queries.sql -> for operational DB ModuleEnrollment queries.sql -> for module data mart courseEnrollment queries.sql -> for course data mart
