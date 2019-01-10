@@ -10,7 +10,7 @@ Instructions for running the 2 data marts & operational database:
 
 NOTE: Keep in mind that my project has no GUI because it is aimed at second year students in the database systems labs where they understand data warehouses at SQL level.
 
-Make sure you have MySQL installed & create a MySQL account in order to create your own database to store my project files:
+Make sure you have MySQL installed & create a MySQL account in order to create your own databases to store my project files:
 
 The links for instructions for installing & setting up MySQL are here for Windows, macos & Linux: 
 1. https://dev.mysql.com/doc/refman/5.7/en/windows-installation.html 
